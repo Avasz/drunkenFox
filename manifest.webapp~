@@ -1,0 +1,18 @@
+{
+  "name": "Firefox Puzzle",
+  "version": "2.0",
+  "description": "Arrange the blocks in order",
+  "launch_path": "/index.html",
+  "icons": {
+    "32": "/images/logo16.png",
+    "48": "/images/logo32.png",
+    "64": "/images/logo64.png",
+    "128": "/images/logo128.png"
+  },
+  "developer": {
+    "name": "Shashi Khanal",
+    "url": "http://shashikhanal.com.np"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}

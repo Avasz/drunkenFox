@@ -1,0 +1,20 @@
+{
+  "name": "Drunken Fox",
+  "version": "2.0",
+  "description": "Arrange the blocks in order",
+  "launch_path": "/index.html",
+  "icons": {
+    "32": "drunken-fox.jpeg",
+    "48": "drunken-fox.jpeg",
+    "64": "drunken-fox.jpeg",
+    "128": "drunken-fox.jpeg"
+  },
+  "developer": {
+    "name": "Shashi Khanal",
+    "url": "http://shashikhanal.com.np"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en"
+}
